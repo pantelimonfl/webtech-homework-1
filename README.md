@@ -1,7 +1,6 @@
 # Instrucțiuni de rulare
 
 ## Obiectiv : Să se modifice în locul marcat fișierul JS astfel încât să treacă testele
-![some meme]("https://preview.redd.it/cgxof0jkru551.png?width=480")
 
 ### Pași pentru a rula testele și a trimite tema
 1. Clonați repository-ul cu tema
