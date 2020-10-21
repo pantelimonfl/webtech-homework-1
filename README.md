@@ -1,7 +1,7 @@
 # Instrucțiuni de rulare
 
 ## Obiectiv : Să se modifice în locul marcat fișierul JS astfel încât să treacă testele
-![Some meme](https://preview.redd.it/cgxof0jkru551.png?width=480&crop=smart&auto=webp&s=e74ef280033734c4e8a266e174686a064dead317)
+![Some meme](https://preview.redd.it/cgxof0jkru551.png?width=960&crop=smart&auto=webp&s=e74ef280033734c4e8a266e174686a064dead317)
 
 ### Pași pentru a rula testele și a trimite tema
 1. Clonați repository-ul cu tema
